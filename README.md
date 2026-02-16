@@ -2,7 +2,7 @@
 
 An interactive Valentine's Day proposal webpage with a progressive "Yes" button that grows as the user clicks "No". Perfect for mobile devices!
 
-## 📱 Mobile Only Notice
+##  Mobile Only Notice
 
 **This version has been optimized for mobile devices** with touch-friendly interactions and responsive design. The original desktop version has been modified to create a more engaging mobile experience.
 
