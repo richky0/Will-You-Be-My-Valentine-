@@ -8,7 +8,7 @@ An interactive Valentine's Day proposal webpage with a progressive "Yes" button 
 
 ---
 
-## ⚠️ Current Bugs
+##  Current Bugs
 
 This modified version contains known bugs that need fixing:
 
@@ -18,7 +18,7 @@ This modified version contains known bugs that need fixing:
 
 ---
 
-## 🎯 What's Changed from Original
+##  What's Changed from Original
 
 | Original | Mobile Edition |
 |----------|---------------|
@@ -31,7 +31,7 @@ This modified version contains known bugs that need fixing:
 
 ---
 
-## ✨ Features
+##  Features
 
 - **13 rejection messages** - Extended conversation before acceptance
 - **Progressive button growth** - "Yes" button expands with each "No" click
@@ -65,7 +65,7 @@ project/
 
 ---
 
-## 🚧 Bug Reports
+##  Bug Reports
 
 If you encounter issues beyond the known bugs:
 
@@ -112,7 +112,7 @@ const messages = [
 
 ---
 
-## 🙏 Credits
+##  Credits
 
 Original creator: [ivysone](https://github.com/ivysone/Will-you-be-my-Valentine-)
 
@@ -120,7 +120,7 @@ Mobile modifications: Community contributor
 
 ---
 
-## 📄 License
+##  License
 
 MIT License - See LICENSE file for details
 
